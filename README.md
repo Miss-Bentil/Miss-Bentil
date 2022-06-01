@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is  Ama Bentsiwa Bentil
-#### I am a Front End Engineer
-![I am a Front End Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### I am a Front End Engineer
 
 A little about me:
 
@@ -27,9 +26,7 @@ Skills: Python/ HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miss-Bentil)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miss-Bentil&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Miss-Bentil)  
-
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Miss-Bentil)  
 
 ![Profile views](https://gpvc.arturio.dev/Miss-Bentil)  
