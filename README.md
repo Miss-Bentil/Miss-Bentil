@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%";"height:25px"; />
-</div>  
-  
-
-### <div align="center">I'm Ama, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">Hello, I'm Ama,  a full-time full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on tiny weekly projects to improve my HTML, CSS & JS skills.  
