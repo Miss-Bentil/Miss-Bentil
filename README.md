@@ -1,4 +1,4 @@
-### <div align="center">Hello, I'm Ama,  a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">Hello, I'm Ama,  a full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on tiny weekly projects to improve my HTML, CSS & JS skills.  
