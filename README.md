@@ -24,7 +24,7 @@
 
 
 ### I'm Ama Bentsiwa Bentil  
-- 🌱Currently : A student of Alx SE and Codetrain
+- 🌱Currently : A student of Codetrain
   
   
 
