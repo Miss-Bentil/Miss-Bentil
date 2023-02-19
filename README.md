@@ -24,7 +24,7 @@
 
 
 ### I'm Ama Bentsiwa Bentil  
-- 🌱Currently : A student of Codetrain
+- 🌱Currently : A studying to be a software developer
   
   
 
