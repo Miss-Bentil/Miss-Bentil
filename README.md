@@ -24,17 +24,12 @@
 
 
 ### I'm Ama Bentsiwa Bentil  
-- 🌱Currently : A studying to be a software developer
-  
-  
-
--  ⚡Previously : An accountant  
-  
+- 🌱Currently : A full stack web developer
 
 
 
 ###  💻 I'm Currently Learning  
-Software Development for Mobile and Web Platfroms  
+Software Development for Mobile platforms 
   
 
 <br/>  
