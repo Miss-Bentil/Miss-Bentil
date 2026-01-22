@@ -1,24 +1,5 @@
 
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23942
-Fork on GitHub
-8221
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ama Bentsiwa Bentil</h1>
 <h3 align="center">A Cloud & DevOps Engineer focused on AWS and Infrastructure as Code</h3>
 
