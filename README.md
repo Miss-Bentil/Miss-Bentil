@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amabbentil](https://medium.com/@amabbentil)
 
-- 📫 How to reach me **amabbentil@gmail.com**
+- 📫 How to reach me **amabentsiwa20@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
